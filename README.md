@@ -1,2 +1,3 @@
 # apnacollege-demo
-Thisismyfirstrepositotry
+This is my git repository.
+Author-Sudhakar Patel
